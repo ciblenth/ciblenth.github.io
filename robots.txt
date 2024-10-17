@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciblenth.github.io/sitemap.xml
+Sitemap: https://ciblenth.github.io/app/sitemap.xml
+Sitemap: https://ciblenth.github.io/assets/sitemap.xml
+Sitemap: https://ciblenth.github.io/css/sitemap.xml
+Sitemap: https://ciblenth.github.io/includes/sitemap.xml
+Sitemap: https://ciblenth.github.io/item/sitemap.xml
+Sitemap: https://ciblenth.github.io/src/sitemap.xml
